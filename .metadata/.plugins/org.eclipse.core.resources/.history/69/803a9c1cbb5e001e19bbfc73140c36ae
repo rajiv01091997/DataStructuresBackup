@@ -1,0 +1,29 @@
+package BuilderPattern;
+
+class Computer
+{
+	private String company;
+	private String model;
+	private int ram;
+	
+	
+	public Computer(String company, String model, int ram) {
+		super();
+		this.company = company;
+		this.model = model;
+		this.ram = ram;
+	}
+	
+	
+}
+
+
+
+
+public class BuilderMain {
+
+	public static void main(String[] args) {
+		
+	}
+
+}

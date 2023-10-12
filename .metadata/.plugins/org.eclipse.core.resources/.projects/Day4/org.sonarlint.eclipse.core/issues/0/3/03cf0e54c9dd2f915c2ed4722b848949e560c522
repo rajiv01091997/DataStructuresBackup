@@ -1,0 +1,22 @@
+
+n	java:S125"<This block of commented-out lines of code should be removed.(áÍ8ª—ïõ¦1HRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(øÕ¶ü8œø¥ğ¦1H¥RMAJORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†üË‰øÿÿÿÿH¦RMINORZ
+CODE_SMELL
+c
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ª—ïõ¦1H§RMINORZ
+CODE_SMELL
+c
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ª—ïõ¦1H©RMINORZ
+CODE_SMELL
+b
+java:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿH«RINFOZ
+CODE_SMELL
+p
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8ª—ïõ¦1H¬RMINORZ
+CODE_SMELL
+o
+java:S1128"7Remove this unused import 'java.util.stream.Collector'.(ß‹ÎÓøÿÿÿÿ8œø¥ğ¦1H®RMINORZ
+CODE_SMELL

@@ -1,0 +1,57 @@
+
+p	java:S106"9Replace this use of System.out or System.err by a logger.(×¢Şµøÿÿÿÿ8¼Õ†ÿ¥1HÁ
+RMAJORZ
+CODE_SMELL
+b
+java:S1197"*Move the array designators [] to the type.(ö›Ò¹ûÿÿÿÿ8¼Õ†ÿ¥1HÂ
+RMINORZ
+CODE_SMELL
+p	java:S106D"9Replace this use of System.out or System.err by a logger.(ÈïÂşÿÿÿÿ8¶ƒ¶ÿ¥1HÅ
+RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(˜õŸÓşÿÿÿÿ8¼Õ†ÿ¥1HÆ
+RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ë³Ş”8¼Õ†ÿ¥1HÇ
+RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ÀÓÅ„8ºÇ¨ÿ¥1HÈ
+RMAJORZ
+CODE_SMELL
+]
+java:S1197)"*Move the array designators [] to the type.(Ş¶ûõ8¼Õ†ÿ¥1HÉ
+RMINORZ
+CODE_SMELL
+k	java:S106:"9Replace this use of System.out or System.err by a logger.(ÖŠÑò8ºÇ¨ÿ¥1HÌ
+RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Ğ¡“ıÿÿÿÿ8¼Õ†ÿ¥1HÍ
+RMAJORZ
+CODE_SMELL
+k	java:S106."9Replace this use of System.out or System.err by a logger.(ìú±8ºÇ¨ÿ¥1HÎ
+RMAJORZ
+CODE_SMELL
+]
+java:S11975"*Move the array designators [] to the type.(Ş¶ûõ8¶ƒ¶ÿ¥1HÏ
+RMINORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(Îò×…8ºÇ¨ÿ¥1HÒ
+RMAJORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ñ®²áşÿÿÿÿHÓ
+RMINORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(¾±”û8¼Õ†ÿ¥1HÔ
+RMAJORZ
+CODE_SMELL
+]
+java:S1197"*Move the array designators [] to the type.(Ã¶âù8¼Õ†ÿ¥1HÕ
+RMINORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(Á¨ñ–8¼Õ†ÿ¥1HØ
+RMAJORZ
+CODE_SMELL
+ˆ
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(Çµí‘8¶ƒ¶ÿ¥1HÙ
+RCRITICALZ
+CODE_SMELL

@@ -1,0 +1,114 @@
+
+q	java:S106á"9Replace this use of System.out or System.err by a logger.(âìŸğşÿÿÿÿ8…Â§¦1HƒRMAJORZ
+CODE_SMELL
+q
+java:S1155y">Use isEmpty() to check whether the collection is empty or not.(ó…³Î8Èå´¨¦1H„RMINORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(éÜ„ÈøÿÿÿÿH†RMINORZ
+CODE_SMELL
+i
+java:S1135?"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8È†³©¦1H‡RINFOZ
+CODE_SMELL
+‘
+java:S1210>"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(Î²›øÿÿÿÿ8È†³©¦1HˆRMINORZ
+CODE_SMELL
+k	java:S106\"9Replace this use of System.out or System.err by a logger.(ë³Ş”8Èå´¨¦1H‰RMAJORZ
+CODE_SMELL
+p	java:S106_"9Replace this use of System.out or System.err by a logger.(­ĞØçùÿÿÿÿ8Ùıê¨¦1HŠRMAJORZ
+CODE_SMELL
+l	java:S106¢"9Replace this use of System.out or System.err by a logger.(ğ¤˜8Èå´¨¦1H‹RMAJORZ
+CODE_SMELL
+^
+java:S1197“"*Move the array designators [] to the type.(€ÇĞ8…Â§¦1HŒRMINORZ
+CODE_SMELL
+k	java:S106n"9Replace this use of System.out or System.err by a logger.(„¸°Á8Èå´¨¦1HRMAJORZ
+CODE_SMELL
+l	java:S106¾"9Replace this use of System.out or System.err by a logger.(Ï¦¨ë8Éâ”¨¦1HRMAJORZ
+CODE_SMELL
+q	java:S106ù"9Replace this use of System.out or System.err by a logger.(ÈïÂşÿÿÿÿ8è›È©¦1H‘RMAJORZ
+CODE_SMELL
+^
+java:S1197Ê"*Move the array designators [] to the type.(¤´ ì8Éâ”¨¦1H’RMINORZ
+CODE_SMELL
+r
+java:S1155œ">Use isEmpty() to check whether the collection is empty or not.(ó…³Î8Èå´¨¦1H•RMINORZ
+CODE_SMELL
+q	java:S106Ñ"9Replace this use of System.out or System.err by a logger.(¾üÔÌüÿÿÿÿ8’²¾§¦1H—RMAJORZ
+CODE_SMELL
+r
+java:S1155Š">Use isEmpty() to check whether the collection is empty or not.(ó…³Î8Èå´¨¦1H˜RMINORZ
+CODE_SMELL
+^
+java:S1197"*Move the array designators [] to the type.(€ÇĞ8…Â§¦1HšRMINORZ
+CODE_SMELL
+k	java:S106`"9Replace this use of System.out or System.err by a logger.(µµœ€8Èå´¨¦1HRMAJORZ
+CODE_SMELL
+l	java:S106Œ"9Replace this use of System.out or System.err by a logger.(Ï¦¨ë8Èå´¨¦1HRMAJORZ
+CODE_SMELL
+k	java:S106^"9Replace this use of System.out or System.err by a logger.(Á¨ñ–8Éâ”¨¦1HŸRMAJORZ
+CODE_SMELL
+q	java:S106£"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ8Éâ”¨¦1H RMAJORZ
+CODE_SMELL
+j	java:S106h"9Replace this use of System.out or System.err by a logger.(Ë¬ËR8Èå´¨¦1H¡RMAJORZ
+CODE_SMELL
+k	java:S106j"9Replace this use of System.out or System.err by a logger.(¾±”û8Éâ”¨¦1H¢RMAJORZ
+CODE_SMELL
+l	java:S106©"9Replace this use of System.out or System.err by a logger.(Ï¦¨ë8òö¨¦1H£RMAJORZ
+CODE_SMELL
+r
+java:S1155¼">Use isEmpty() to check whether the collection is empty or not.(ó…³Î8Èå´¨¦1H¤RMINORZ
+CODE_SMELL
+p	java:S106]"9Replace this use of System.out or System.err by a logger.(˜õŸÓşÿÿÿÿ8…Â§¦1H¦RMAJORZ
+CODE_SMELL
+k	java:S106Á"9Replace this use of System.out or System.err by a logger.(¶†Å68’²¾§¦1H§RMAJORZ
+CODE_SMELL
+
+java:S1192{"hDefine a constant instead of duplicating this literal "No student present first add 3 students" 6 times.(Ï¦¨ë8Èå´¨¦1H¨RCRITICALZ
+CODE_SMELL
+k	java:S106l"9Replace this use of System.out or System.err by a logger.(ÀÓÅ„8Èå´¨¦1H¯RMAJORZ
+CODE_SMELL
+l	java:S106¬"9Replace this use of System.out or System.err by a logger.(©ş±8…Â§¦1H°RMAJORZ
+CODE_SMELL
+r
+java:S1155§">Use isEmpty() to check whether the collection is empty or not.(ó…³Î8È†³©¦1H±RMINORZ
+CODE_SMELL
+l	java:S106×"9Replace this use of System.out or System.err by a logger.(Ş¹åˆ8Èå´¨¦1H³RMAJORZ
+CODE_SMELL
+ˆ
+java:S3776T"RRefactor this method to reduce its Cognitive Complexity from 73 to the 15 allowed.(Çµí‘8’²¾§¦1H´RCRITICALZ
+CODE_SMELL
+l	java:S106†"9Replace this use of System.out or System.err by a logger.(ìú±8Éâ”¨¦1HÌRMAJORZ
+CODE_SMELL
+k	java:S106{"9Replace this use of System.out or System.err by a logger.(Ï¦¨ë8’²¾§¦1HÍRMAJORZ
+CODE_SMELL
+r
+java:S1155Ü">Use isEmpty() to check whether the collection is empty or not.(ó…³Î8Èå´¨¦1HÎRMINORZ
+CODE_SMELL
+q	java:S106¸"9Replace this use of System.out or System.err by a logger.(«†’˜øÿÿÿÿ8’²¾§¦1HĞRMAJORZ
+CODE_SMELL
+]
+java:S1197o"*Move the array designators [] to the type.(Ã¶âù8…Â§¦1HÑRMINORZ
+CODE_SMELL
+k	java:S106b"9Replace this use of System.out or System.err by a logger.(˜×±8’²¾§¦1HÔRMAJORZ
+CODE_SMELL
+l	java:S106"9Replace this use of System.out or System.err by a logger.(Ï¦¨ë8Éâ”¨¦1HÕRMAJORZ
+CODE_SMELL
+q	java:S106³"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ8È†³©¦1HÖRMAJORZ
+CODE_SMELL
+l	java:S106Ş"9Replace this use of System.out or System.err by a logger.(Ï¦¨ë8…Â§¦1H×RMAJORZ
+CODE_SMELL
+p	java:S106c"9Replace this use of System.out or System.err by a logger.(ª”İšûÿÿÿÿ8…Â§¦1HØRMAJORZ
+CODE_SMELL
+k	java:S106a"9Replace this use of System.out or System.err by a logger.(£ÆêÍ8…Â§¦1HÙRMAJORZ
+CODE_SMELL
+l	java:S106ğ"9Replace this use of System.out or System.err by a logger.(Ş¹åˆ8Èå´¨¦1HÚRMAJORZ
+CODE_SMELL
+ƒ
+java:S3973·"GUse indentation to denote the code conditionally executed by this "if".(­¡çˆüÿÿÿÿ8ÚõÜ¨¦1HÛRCRITICALZ
+CODE_SMELL
+l	java:S106É"9Replace this use of System.out or System.err by a logger.(­–¸Û8È†³©¦1HİRMAJORZ
+CODE_SMELL
+„	java:S117Â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†ö8Éâ”¨¦1HŞRMINORZ
+CODE_SMELL
+l	java:S106˜"9Replace this use of System.out or System.err by a logger.(ùøóÏ8…Â§¦1HßRMAJORZ
+CODE_SMELL

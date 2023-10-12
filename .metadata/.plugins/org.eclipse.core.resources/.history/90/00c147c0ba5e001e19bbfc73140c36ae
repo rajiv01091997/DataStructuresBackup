@@ -1,0 +1,17 @@
+package BuilderPattern;
+
+class Computer
+{
+	String
+}
+
+
+
+
+public class BuilderMain {
+
+	public static void main(String[] args) {
+		
+	}
+
+}

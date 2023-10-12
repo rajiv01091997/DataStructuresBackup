@@ -1,0 +1,37 @@
+
+p	java:S106"9Replace this use of System.out or System.err by a logger.(°Ï¥Ÿøÿÿÿÿ8×„Ô¤1H´RMAJORZ
+CODE_SMELL
+k	java:S106B"9Replace this use of System.out or System.err by a logger.(Šãæ¹8ÔÔÑÓ¤1HáRMAJORZ
+CODE_SMELL
+]
+java:S1197"*Move the array designators [] to the type.(Ğæš¤8¸ä¯Ó¤1H©RMINORZ
+CODE_SMELL
+k	java:S106L"9Replace this use of System.out or System.err by a logger.(Šãæ¹8¶Ç÷Ó¤1HRMAJORZ
+CODE_SMELL
+‚
+java:S11922"LDefine a constant instead of duplicating this literal "Queue Empty" 3 times.(Šãæ¹8ÔÔÑÓ¤1H±RCRITICALZ
+CODE_SMELL
+Z
+java:S1659""Declare "rear" on a separate line.(Ÿˆ®Äıÿÿÿÿ8¸ä¯Ó¤1H§RMINORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÿ¾”üÿÿÿÿHœRMINORZ
+CODE_SMELL
+p	java:S106U"9Replace this use of System.out or System.err by a logger.(ÙõıÅúÿÿÿÿ8¿®ŞÓ¤1HÏRMAJORZ
+CODE_SMELL
+
+java:S1192"FDefine a constant instead of duplicating this literal "Size:" 3 times.(°Ï¥Ÿøÿÿÿÿ8¯Í¤Ô¤1H‚RCRITICALZ
+CODE_SMELL
+p	java:S106V"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8¯Í¤Ô¤1H†RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(°Ï¥Ÿøÿÿÿÿ8ÕÔÑÓ¤1HºRMAJORZ
+CODE_SMELL
+p	java:S106E"9Replace this use of System.out or System.err by a logger.(‘çºöúÿÿÿÿ8ÔÔÑÓ¤1H¶RMAJORZ
+CODE_SMELL
+k	java:S106'"9Replace this use of System.out or System.err by a logger.(Åë ğ8¸ä¯Ó¤1H¬RMAJORZ
+CODE_SMELL
+p	java:S1065"9Replace this use of System.out or System.err by a logger.(“ù®ÿÿÿÿÿ8¿®ŞÓ¤1HĞRMAJORZ
+CODE_SMELL
+k	java:S1062"9Replace this use of System.out or System.err by a logger.(Šãæ¹8µğŠÔ¤1HÍRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(°Ï¥Ÿøÿÿÿÿ8ÔÔÑÓ¤1H©RMAJORZ
+CODE_SMELL

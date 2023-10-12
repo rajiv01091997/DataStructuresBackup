@@ -1,0 +1,26 @@
+
+k	java:S106&"9Replace this use of System.out or System.err by a logger.(¶Ê¼ô8ï¯–­¦1H’RMAJORZ
+CODE_SMELL
+€	java:S1004"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–ïìî8êøê¬¦1HûRMINORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(éÜ„ÈøÿÿÿÿHøRMINORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(Ç’ä‘8«Ô™­¦1HœRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ñ”úç8—ºÍ¬¦1HúRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ñ”úç8ï¯–­¦1HRMAJORZ
+CODE_SMELL
+p	java:S106B"9Replace this use of System.out or System.err by a logger.(ÜñÖêÿÿÿÿÿ8ï¯–­¦1H“RMAJORZ
+CODE_SMELL
+·
+java:S1192"€Define a constant instead of duplicating this literal "===============================================================" 4 times.(ñ”úç8ï¯–­¦1H‹RCRITICALZ
+CODE_SMELL
+€	java:S100E"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î Š·8š­†­¦1H‚RMINORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ñ”úç8ï¯–­¦1H‘RMAJORZ
+CODE_SMELL
+h
+java:S4973K"<Strings and Boxed types should be compared using "equals()".(´ç“ö8š­†­¦1HıRMAJORZBUG
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ñ”úç8êøê¬¦1HüRMAJORZ
+CODE_SMELL

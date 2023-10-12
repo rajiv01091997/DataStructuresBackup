@@ -1,0 +1,14 @@
+
+p	java:S106"9Replace this use of System.out or System.err by a logger.(òô×şÿÿÿÿ8ûøŠı¦1HšRMAJORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÄˆÇÉùÿÿÿÿH›RMINORZ
+CODE_SMELL
+k	java:S1062"9Replace this use of System.out or System.err by a logger.(ç«—ú8ûøŠı¦1HœRMAJORZ
+CODE_SMELL
+k	java:S1068"9Replace this use of System.out or System.err by a logger.(¨õÌÍ8ûøŠı¦1HRMAJORZ
+CODE_SMELL
+X
+java:S1659"%Declare "breadth" on a separate line.(Ç£¡Ö8ûøŠı¦1HRMINORZ
+CODE_SMELL
+p	java:S106 "9Replace this use of System.out or System.err by a logger.(¬ÉÕÿÿÿÿÿ8ûøŠı¦1H RMAJORZ
+CODE_SMELL

@@ -1,0 +1,18 @@
+
+k	java:S106#"9Replace this use of System.out or System.err by a logger.(Ξ–²Ρ8‹Ψού¥1HωRMAJORZ
+CODE_SMELL
+„
+java:S3973""IUse indentation to denote the code conditionally executed by this "else".(„¶αμψÿÿÿÿ8‹Ψού¥1HϊRCRITICALZ
+CODE_SMELL
+p	java:S106!"9Replace this use of System.out or System.err by a logger.(¨ΰµ¦ωÿÿÿÿ8Γ°λύ¥1HόRMAJORZ
+CODE_SMELL
+T
+java:S1659""Declare "val2" on a separate line.(σε©j8Γ°λύ¥1HύRMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ν›αυώÿÿÿÿ8Γ°λύ¥1HÿRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Ά•ιΪψÿÿÿÿ8Γ°λύ¥1H€RMAJORZ
+CODE_SMELL
+‚
+java:S3973 "GUse indentation to denote the code conditionally executed by this "if".(ΘβΥύÿÿÿÿ8‹Ψού¥1HRCRITICALZ
+CODE_SMELL

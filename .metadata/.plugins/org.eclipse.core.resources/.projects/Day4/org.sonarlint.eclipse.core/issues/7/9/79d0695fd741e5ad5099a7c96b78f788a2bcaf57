@@ -1,0 +1,9 @@
+
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÄˆÇÉùÿÿÿÿH¨RMINORZ
+CODE_SMELL
+_
+java:S5664
+",Use only spaces or only tabs for indentation(Šß›¹8‚£˜—§1HªRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Å­ËÝúÿÿÿÿ8‚£˜—§1H«RMAJORZ
+CODE_SMELL

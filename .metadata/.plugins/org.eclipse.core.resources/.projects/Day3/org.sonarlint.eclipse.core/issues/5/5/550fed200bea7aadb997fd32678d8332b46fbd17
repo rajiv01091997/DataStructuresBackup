@@ -1,0 +1,44 @@
+
+}
+java:S2095+"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(µ“ê€8ÅÌĞà¦1H˜RBLOCKERZBUG
+k	java:S106N"9Replace this use of System.out or System.err by a logger.(œøÖ8¨ó…â¦1H RMAJORZ
+CODE_SMELL
+g
+java:S1905D"4Remove this unnecessary cast to "CallableStatement".(µïÛÜ8É³…ä¦1H›RMINORZ
+CODE_SMELL
+Z
+java:S1125"'Remove the unnecessary boolean literal.(±Ï¸ó8·ÁıŞ¦1H¢RMINORZ
+CODE_SMELL
+}
+java:S2095D"OUse try-with-resources or close this "CallableStatement" in a "finally" clause.(µïÛÜ8Úò¨1H©RBLOCKERZBUG
+k	java:S106"9Replace this use of System.out or System.err by a logger.(²²»‚8·ÁıŞ¦1HRMAJORZ
+CODE_SMELL
+p	java:S106`"9Replace this use of System.out or System.err by a logger.(³«—ûÿÿÿÿ8À¦ûÒ¦1H–RMAJORZ
+CODE_SMELL
+j	java:S1061"9Replace this use of System.out or System.err by a logger.(–¶¯M8·ÁıŞ¦1HŸRMAJORZ
+CODE_SMELL
+‚
+java:S2095]"OUse try-with-resources or close this "CallableStatement" in a "finally" clause.(ÉÌÿ«ûÿÿÿÿ8É³…ä¦1H—RBLOCKERZBUG
+u
+java:S2095?"GUse try-with-resources or close this "Statement" in a "finally" clause.(‹½»8¨ó…â¦1H¥RBLOCKERZBUG
+p	java:S106J"9Replace this use of System.out or System.err by a logger.(ËÓüÿÿÿÿ8É³…ä¦1HRMAJORZ
+CODE_SMELL
+…	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıó·üÿÿÿÿ8À¦ûÒ¦1H™RMINORZ
+CODE_SMELL
+}
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(üÚĞÉ8Ìß‰Ş¦1HšRBLOCKERZBUG
+n	java:S125@"<This block of commented-out lines of code should be removed.(­ú’8Úò¨1H­RMAJORZ
+CODE_SMELL
+Z
+java:S1481?"'Remove this unused "st" local variable.(‹½»8Úò¨1H«RMINORZ
+CODE_SMELL
+l
+java:S1905]"4Remove this unnecessary cast to "CallableStatement".(ÉÌÿ«ûÿÿÿÿ8Úò¨1H®RMINORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(³ÇºçüÿÿÿÿH¡RMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Èüàúÿÿÿÿ8¨ó…â¦1H¦RMAJORZ
+CODE_SMELL
+i
+java:S1854?"6Remove this useless assignment to local variable "st".(‹½»8Úò¨1HªRMAJORZ
+CODE_SMELL

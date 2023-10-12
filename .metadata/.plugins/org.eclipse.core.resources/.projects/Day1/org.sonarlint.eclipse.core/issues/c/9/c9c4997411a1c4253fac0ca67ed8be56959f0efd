@@ -1,0 +1,12 @@
+
+	java:S135 "YReduce the total number of break and continue statements in this loop to use at most one.(Ä—Òîüÿÿÿÿ8Ì—š„¦1HòRMINORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(âğL8ÑŒìƒ¦1HõRMAJORZ
+CODE_SMELL
+O
+java:S1643"Use a StringBuilder instead.(õÿ8ÑŒìƒ¦1HöRMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ8ÑŒìƒ¦1H÷RMAJORZ
+CODE_SMELL
+p	java:S1061"9Replace this use of System.out or System.err by a logger.(³ğ¸ûÿÿÿÿ8Ì—š„¦1HøRMAJORZ
+CODE_SMELL

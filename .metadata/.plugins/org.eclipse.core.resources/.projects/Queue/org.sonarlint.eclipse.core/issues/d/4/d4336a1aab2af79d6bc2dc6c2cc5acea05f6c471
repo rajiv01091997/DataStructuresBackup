@@ -1,0 +1,43 @@
+
+k	java:S106;"9Replace this use of System.out or System.err by a logger.(Ê¤®ß8°úòÀ¥1HÜRMAJORZ
+CODE_SMELL
+k	java:S106Q"9Replace this use of System.out or System.err by a logger.(ÛşÎ°8°úòÀ¥1HŞRMAJORZ
+CODE_SMELL
+p	java:S106W"9Replace this use of System.out or System.err by a logger.(‘çºöúÿÿÿÿ8ÒÜÁ¥1H‹RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ú«ä¤8™•õÀ¥1HòRMAJORZ
+CODE_SMELL
+p	java:S106b"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8°úòÀ¥1H±RMAJORZ
+CODE_SMELL
+b
+java:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿH’RINFOZ
+CODE_SMELL
+j	java:S106?"9Replace this use of System.out or System.err by a logger.(õË“18‰É¬î¤1H³RMAJORZ
+CODE_SMELL
+p	java:S106m"9Replace this use of System.out or System.err by a logger.(ÙõıÅúÿÿÿÿ8£¡Á¥1HÇRMAJORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÿ¾”üÿÿÿÿH‘RMINORZ
+CODE_SMELL
+„
+java:S3973F"IUse indentation to denote the code conditionally executed by this "else".(„¶áìøÿÿÿÿ8‰É¬î¤1H°RCRITICALZ
+CODE_SMELL
+p	java:S106p"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ÂÄ³í¤1HªRMAJORZ
+CODE_SMELL
+]
+java:S1197"*Move the array designators [] to the type.(Ğæš¤8ÂÄ³í¤1H¥RMINORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ú«ä¤8•°øÀ¥1H”RMAJORZ
+CODE_SMELL
+p	java:S106i"9Replace this use of System.out or System.err by a logger.(ÙõıÅúÿÿÿÿ8´ƒ¥Á¥1HæRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ú«ä¤8·şÿÀ¥1H­RMAJORZ
+CODE_SMELL
+p	java:S106a"9Replace this use of System.out or System.err by a logger.(ÙõıÅúÿÿÿÿ8‰É¬î¤1H²RMAJORZ
+CODE_SMELL
+k	java:S106+"9Replace this use of System.out or System.err by a logger.(Ï¤ê‰8°úòÀ¥1HÚRMAJORZ
+CODE_SMELL
+Z
+java:S1659""Declare "rear" on a separate line.(Â¯Õ“üÿÿÿÿ8ÂÄ³í¤1H£RMINORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ú«ä¤8°úòÀ¥1HÛRMAJORZ
+CODE_SMELL

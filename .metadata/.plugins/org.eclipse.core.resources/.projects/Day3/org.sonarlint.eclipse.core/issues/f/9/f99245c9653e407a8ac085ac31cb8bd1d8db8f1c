@@ -1,0 +1,27 @@
+
+k	java:S106"9Replace this use of System.out or System.err by a logger.(¯ÊÀ¦8ÄÅãâ¦1HùRMAJORZ
+CODE_SMELL
+k	java:S106/"9Replace this use of System.out or System.err by a logger.(Ñ©öÀ8ò„ã¦1HúRMAJORZ
+CODE_SMELL
+l
+java:S1128"4Remove this unused import 'com.glo.Repo.Repository'.(»„ú×øÿÿÿÿ8Éàüâ¦1HöRMINORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(²–÷âıÿÿÿÿHñRMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(™ğ­ãùÿÿÿÿ8ÄÅãâ¦1HõRMAJORZ
+CODE_SMELL
+f
+java:S1128"3Remove this unused import 'com.glo.Model.Employee'.(ığè„8Éàüâ¦1HòRMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Ëş¡üÿÿÿÿ8ÄÅãâ¦1HûRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ú¡°°ÿÿÿÿÿ8ÄÅãâ¦1HğRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(£–Æ€8ÄÅãâ¦1HüRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(§–˜´øÿÿÿÿ8ÄÅãâ¦1HôRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ú¡°°ÿÿÿÿÿ8ÄÅãâ¦1HøRMAJORZ
+CODE_SMELL
+p	java:S106*"9Replace this use of System.out or System.err by a logger.(Å°æ£ùÿÿÿÿ8”ò‚ã¦1HïRMAJORZ
+CODE_SMELL

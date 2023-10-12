@@ -1,0 +1,33 @@
+
+}
+java:S1192"GDefine a constant instead of duplicating this literal "size: " 3 times.(­¨Ÿˆ8ˆ¡¶¤1HÿRCRITICALZ
+CODE_SMELL
+b
+java:S1197	"*Move the array designators [] to the type.(º ìıÿÿÿÿ8ªôå²¤1HÙRMINORZ
+CODE_SMELL
+‚
+java:S1192"LDefine a constant instead of duplicating this literal " capacity: " 3 times.(­¨Ÿˆ8ˆ¡¶¤1HûRCRITICALZ
+CODE_SMELL
+p	java:S106u"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8îÈ´¤1H–RMAJORZ
+CODE_SMELL
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÿµÄ…HĞRMINORZ
+CODE_SMELL
+‘
+java:S30121"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(Ï–€ˆşÿÿÿÿ8‘„´¤1HãRMINORZ
+CODE_SMELL
+]
+java:S1197"*Move the array designators [] to the type.(Ğæš¤8ªôå²¤1HÖRMINORZ
+CODE_SMELL
+k	java:S106%"9Replace this use of System.out or System.err by a logger.(­¨Ÿˆ8¨¥¶¤1HôRMAJORZ
+CODE_SMELL
+k	java:S106!"9Replace this use of System.out or System.err by a logger.(­¨Ÿˆ8Œ™Ğµ¤1HáRMAJORZ
+CODE_SMELL
+k	java:S106h"9Replace this use of System.out or System.err by a logger.(ÛşÎ°8¤ÄŞ´¤1HµRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(­¨Ÿˆ8ˆ¡¶¤1HƒRMAJORZ
+CODE_SMELL
+]
+java:S1197."*Move the array designators [] to the type.(ğó¡ê8‘„´¤1HàRMINORZ
+CODE_SMELL
+p	java:S106t"9Replace this use of System.out or System.err by a logger.(ÙõıÅúÿÿÿÿ8ºÎá´¤1H¼RMAJORZ
+CODE_SMELL

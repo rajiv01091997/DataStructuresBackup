@@ -1,0 +1,44 @@
+
+º
+java:S1192y"ŠDefine a constant instead of duplicating this literal "=========================================================================" 4 times.(¼ªÃüHñRCRITICALZ
+CODE_SMELL
+v
+java:S1192d"GDefine a constant instead of duplicating this literal "Ranchi" 3 times.(êÅ·ÁHöRCRITICALZ
+CODE_SMELL
+|	java:S117n"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åÓëâHúRMINORZ
+CODE_SMELL
+|	java:S117|"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿íÚáHûRMINORZ
+CODE_SMELL
+}	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³åÉüHüRMINORZ
+CODE_SMELL
+}	java:S117›"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È…ÎÚHıRMINORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÄˆÇÉùÿÿÿÿHşRMINORZ
+CODE_SMELL
+i	java:S106w"9Replace this use of System.out or System.err by a logger.(†—ÏÌûÿÿÿÿHÿRMAJORZ
+CODE_SMELL
+d	java:S106y"9Replace this use of System.out or System.err by a logger.(¼ªÃüH€RMAJORZ
+CODE_SMELL
+j	java:S106‡"9Replace this use of System.out or System.err by a logger.(Š’®ÿÿÿÿÿHRMAJORZ
+CODE_SMELL
+e	java:S106‰"9Replace this use of System.out or System.err by a logger.(¼ªÃüH‚RMAJORZ
+CODE_SMELL
+
+java:S4276"`Refactor this code to use the more specialised Functional Interface 'ToDoubleFunction<Employee>'(³åÉüHƒRMINORZ
+CODE_SMELL
+e	java:S106•"9Replace this use of System.out or System.err by a logger.(Ê–°îH„RMAJORZ
+CODE_SMELL
+e	java:S106—"9Replace this use of System.out or System.err by a logger.(¼ªÃüH…RMAJORZ
+CODE_SMELL
+m
+java:S1612›"@Replace this lambda with method reference 'System.out::println'.(È…ÎÚH†RMINORZ
+CODE_SMELL
+e	java:S106›"9Replace this use of System.out or System.err by a logger.(È…ÎÚHˆRMAJORZ
+CODE_SMELL
+e	java:S106œ"9Replace this use of System.out or System.err by a logger.(ŠŒ÷H‰RMAJORZ
+CODE_SMELL
+e	java:S106¢"9Replace this use of System.out or System.err by a logger.(¼ªÃüHŠRMAJORZ
+CODE_SMELL
+Y
+java:S1128	"-Remove this unused import 'java.util.random'.(ÕÍºçH‹RMINORZ
+CODE_SMELL

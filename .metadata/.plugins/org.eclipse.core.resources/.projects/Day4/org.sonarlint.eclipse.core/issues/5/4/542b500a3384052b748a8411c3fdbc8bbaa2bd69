@@ -1,0 +1,21 @@
+
+h
+java:S1610"5Convert the abstract class "Shape" into an interface.(ÔÇ—…8Äıºü¦1HÙRMINORZ
+CODE_SMELL
+X
+java:S6217"%Remove this redundant permitted list.(ÔÇ—…8Äıºü¦1HÜRMINORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÄˆÇÉùÿÿÿÿHáRMINORZ
+CODE_SMELL
+p	java:S106+"9Replace this use of System.out or System.err by a logger.(‰¾Ÿ‰ÿÿÿÿÿ8Äıºü¦1HØRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ßˆˆı8Äıºü¦1HÖRMAJORZ
+CODE_SMELL
+W
+java:S16591"$Declare "height" on a separate line.(‹µŞİ8Äıºü¦1HÚRMINORZ
+CODE_SMELL
+x
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ÔÇ—…8Äıºü¦1HÓRMINORZ
+CODE_SMELL
+p	java:S106="9Replace this use of System.out or System.err by a logger.(Ÿ¥çüÿÿÿÿ8Äıºü¦1H×RMAJORZ
+CODE_SMELL
